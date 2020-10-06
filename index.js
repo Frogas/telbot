@@ -42,3 +42,4 @@ bot.command('menu', ctx => {
 });
 
 bot.launch();
+//SourceCode by Reza/Shikukiza
