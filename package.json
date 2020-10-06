@@ -1,0 +1,14 @@
+{
+  "name": "telbot",
+  "version": "1.0.0",
+  "description": "Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Shikukiza",
+  "license": "ISC"
+}
