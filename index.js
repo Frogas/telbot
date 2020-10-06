@@ -1,5 +1,4 @@
 //npm i telegraf@3.33
-//npm i -g nodemon
 const Telegraf = require('telegraf');
 const bot = new Telegraf = 'ISI_TOKEN @BotFather');
 //npm i axios
