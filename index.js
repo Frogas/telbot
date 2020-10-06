@@ -23,4 +23,22 @@ bot.command('help', ctx => {
     bot.telegram.sendMessage(chatId, 'Bot layanan chat');
 });
 
+//var @button-keyboard
+bot.command('menu', ctx => {
+    const chatId = ctx.chat.id;
+    bot.telegram.sendMessage(chatId, 'Pilih Button di keyboard anda:', {
+      reply_markup: {
+        keyboard: [
+            [
+              { text: Button 1 },
+              { text: Button 2 }
+            ]
+        ],
+        //boolean
+        resize_keyboard: true, //false
+        one_time_keyboard: false //true
+      }
+    });
+});
+
 bot.launch();
