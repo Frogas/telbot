@@ -48,7 +48,7 @@
 
 10. </b>Kemudian edit index.js di const bot = ('ISI_TOKEN');</b>
 
-![screenshot](Screenshot_20201009-220816_WhatsApp.jpg)
+![screenshot](Screenshot_20201010-001025_Telegram.jpg)
 
 11. <b>node index.js</b>
 
