@@ -41,5 +41,19 @@ bot.command('menu', ctx => {
   });
 });
 
+//update script
+//var hears for keyboard button;
+//var @button 1 response;
+bot.hears('Button 1', ctx => {
+  ctx.reply('Button 1 True);
+});
+
+//var @Button 2 response;
+bot.hears('Button 2', ctx => {
+  ctx.reply('Button 2 True);
+});
+//last test!
+  
+
 bot.launch();
 //SourceCode by Reza/Shikukiza
