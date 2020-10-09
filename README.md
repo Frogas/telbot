@@ -32,7 +32,7 @@
 
 1. Download Visual Studio Code
 
-2. Buka console
+2. Buka console atau ketik ctrl+`
 
 3. Pastikan sudah install git dan npm
 
