@@ -62,6 +62,6 @@ Kunjungi <a href="https://github.com/Shikukiza/telegraf_bot">Telegraf-Shikukiza<
 <br/>
 Join Juga <a href="https://t.me/shikukiza_nodejs">Grup-Telegram</a>
 
-Baca juga apinya <a href="https://core.telegram.org/bots/api">TelegramBot-API</a>
+Baca juga bot api <a href="https://core.telegram.org/bots/api">TelegramBot-API</a>
 
-Pada artikel halaman<a href="https://telegraf.js.org/#/">Telegraf</a>
+Pada artikel halaman <a href="https://telegraf.js.org/#/">Telegraf</a>
