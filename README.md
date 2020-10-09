@@ -46,7 +46,7 @@
 
 10. Kemudian edit index.js di const bot = ('ISI_TOKEN');
 
-11. node index.js
+11. <b>node index.js</b>
 
 12. Dan Enjoy :) Selamat Mencoba!
 
