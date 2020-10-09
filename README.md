@@ -52,4 +52,4 @@
 
 #Contoh ScreenShout!
 
-![screenshot](screenshot.png)
+![screenshot](Screenshot_20201009-235539_Telegram.jpg)
