@@ -54,4 +54,4 @@
 
 ![screenshot](Screenshot_20201009-235539_Telegram.jpg)
 
-<button> Mengerti </button> <button> Tidak, maaf </button>
+Kunjungi <a href="https://github.com/Shikukiza/telegraf">Telegraf-Shikukiza</a>
