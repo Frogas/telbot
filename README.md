@@ -1,4 +1,4 @@
-# Telegram Bot Dengan Telegraf NodeJS
+# Telegraf NodeJS
 
 # Android Termux Setup
 
@@ -54,4 +54,4 @@
 
 ![screenshot](Screenshot_20201009-235539_Telegram.jpg)
 
-Kunjungi <a href="https://github.com/Shikukiza/telegraf-bot">Telegraf-Shikukiza</a>
+Kunjungi <a href="https://github.com/Shikukiza/telegraf_bot">Telegraf-Shikukiza</a>
