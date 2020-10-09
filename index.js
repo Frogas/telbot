@@ -32,6 +32,9 @@ bot.command('menu', ctx => {
         [
           { text: 'Button 1' },
           { text: 'Button 2' }
+        ],
+        [
+          { text: 'Exit' }
         ]
       ],
       //boolean
@@ -51,6 +54,11 @@ bot.hears('Button 1', ctx => {
 //var @Button 2 response;
 bot.hears('Button 2', ctx => {
   ctx.reply('Button 2 True);
+});
+
+//var @Exit response;
+bot.hears('Exit', ctx => {
+  ctx.reply('Has exit!');
 });
 //last test!
   
