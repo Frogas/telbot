@@ -2,7 +2,7 @@
 
 ![screenshot](Screenshot_20201009-220816_WhatsApp.jpg)
 
-# Android Termux Setup
+# Termux Setup
 
 <b>1. Install Ubuntu v18 Diandronix</b>
 
