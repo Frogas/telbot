@@ -59,3 +59,5 @@
 ![screenshot](Screenshot_20201009-235539_Telegram.jpg)
 
 Kunjungi <a href="https://github.com/Shikukiza/telegraf_bot">Telegraf-Shikukiza</a>
+<br/>
+Join Juga <a href="https://t.me/shikukiza_nodejs">Grup-Telegram</a
