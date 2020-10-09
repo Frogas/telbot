@@ -49,3 +49,7 @@
 11. node index.js
 
 12. Dan Enjoy :) Selamat Mencoba!
+
+#Contoh ScreenShout!
+
+![screenshot](screenshot.png)
