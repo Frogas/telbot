@@ -1,5 +1,7 @@
 # Telegraf NodeJS
 
+![screenshot](Screenshot_20201009-220816_WhatsApp.jpg)
+
 # Android Termux Setup
 
 1. <b>Install Ubuntu v18 Diandronix</b>
@@ -46,11 +48,13 @@
 
 10. </b>Kemudian edit index.js di const bot = ('ISI_TOKEN');</b>
 
+![screenshot](Screenshot_20201009-220816_WhatsApp.jpg)
+
 11. <b>node index.js</b>
 
 12. <b>Dan Enjoy :) Selamat Mencoba!</b>
 
-# Contoh Button Share/Inline!
+# Contoh Inline!
 
 ![screenshot](Screenshot_20201009-235539_Telegram.jpg)
 
