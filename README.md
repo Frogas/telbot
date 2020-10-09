@@ -4,11 +4,11 @@
 
 # Android Termux Setup
 
-1. <b>Install Ubuntu v18 Diandronix</b>
+<b>1. Install Ubuntu v18 Diandronix</b>
 
-2. <b>./start-ubuntu.sh</b>
+<b>2. <b>./start-ubuntu.sh</b>
 
-3. <b>apt update -y && apt upgrade -y</b>
+<b>3. <b>apt update -y && apt upgrade -y</b>
 
 4. <b>apt install git -y<b>
 
