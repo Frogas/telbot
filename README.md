@@ -50,6 +50,6 @@
 
 12. <b>Dan Enjoy :) Selamat Mencoba!</b>
 
-# Contoh ScreenShout!
+# Contoh Button Share/Inline!
 
 ![screenshot](Screenshot_20201009-235539_Telegram.jpg)
