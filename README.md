@@ -60,4 +60,4 @@
 
 Kunjungi <a href="https://github.com/Shikukiza/telegraf_bot">Telegraf-Shikukiza</a>
 <br/>
-Join Juga <a href="https://t.me/shikukiza_nodejs">Grup-Telegram</a
+Join Juga <a href="https://t.me/shikukiza_nodejs">Grup-Telegram</a>
