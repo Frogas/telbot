@@ -101,5 +101,4 @@ Baca juga bot api <a href="https://core.telegram.org/bots/api">TelegramBot-API</
 <br>
 Pada artikel halaman <a href="https://telegraf.js.org/#/">Telegraf</a>
 ![Twitter](https://img.shields.io/twitter/follow/shikukiza?style=flat-square)
-
 ![Fork](https://img.shields.io/github/forks/shikukiza/telbot?style=flat-square)
