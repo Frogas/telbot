@@ -47,20 +47,25 @@ node index.js
 2. <b>Buka console atau ketik ctrl+`</b>
 
 3. <b>Pastikan sudah install git dan npm</b>
-
-4. <b>git clone https://github.com/Shikukiza/telbot</b>
-
-5. <b>cd telbot</b>
-
-6. <b>npm i telegraf@3.33</b>
-
-7. <b>npm i axios</b>
+```bash
+git clone https://github.com/Shikukiza/telbot
+```
+```bash
+cd telbot
+```
+```bash
+npm i telegraf@3.33
+```
+```bash
+npm i axios
+```
 
 10. </b>Kemudian edit index.js di const bot = ('ISI_TOKEN');</b>
 
 ![screenshot](Screenshot_20201010-001025_Telegram.jpg)
-
-11. <b>node index.js</b>
+```bash
+node index.js
+```
 
 12. <b>Dan Enjoy :) Selamat Mencoba!</b>
 
