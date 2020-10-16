@@ -1,6 +1,6 @@
 # Telegraf NodeJS
 
-![screenshot](Screenshot_20201009-220816_WhatsApp.jpg)
+![screenshot](231a7b66c5080ccb37407be02999ac2b.gif)
 
 # Termux Setup
 <b>Install Ubuntu Andronix</b>
