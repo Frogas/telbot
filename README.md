@@ -3,40 +3,51 @@
 ![screenshot](Screenshot_20201009-220816_WhatsApp.jpg)
 
 # Termux Setup
-<b>1. Install Ubuntu diAndronix</b>
+<b>Install Ubuntu Andronix</b>
 ```bash
 > pkg update -y && pkg install curl proot tar -y && curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu/ubuntu.sh | bash
 ```
+<b>Jalankan Ubuntu</b>
 ```bash
 > ./start-ubuntu.sh
 ```
+<b>Update & Upgrade Ubuntu</b>
 ```bash
 > apt update -y && apt upgrade -y
 ```
+<b>Install Git</b>
 ```bash
 > apt install git -y
 ```
+<b>Cloning ini</b>
 ```bash
 > git clone https://github.com/Shikukiza/telbot
 ```
+<b>Install Nano</b>
 ```bash
 > apt install nano -y
 ```
+<b>Install npm</b>
 ```bash
 > apt install npm -y
 ```
+<b>Install NodeJS</b>
 ```bash
 > apt install nodejs -y
 ```
+<b>Buka Folder telbot</b>
 ```bash
 > cd telbot
 ```
+<b>Install depend telegraf</b>
 ```bash
 > npm install telegraf@3.33
 ```
+<b>Install depend axios</b>
 ```bash
 > npm install axios
 ```
+<b>Mulaikan index.js</b>
 ```bash
 > node index.js
 ```
