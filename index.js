@@ -1,6 +1,6 @@
 //npm i telegraf@3.34.1
 const Telegraf = require('telegraf');
-const bot = new Telegraf('ISI_TOKEN @BotFather');
+const bot = new Telegraf('./env.BOT_TOKEN');
 //npm i axios
 const axios = require('axios');
 
