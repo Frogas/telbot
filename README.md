@@ -61,6 +61,7 @@
 2. <b>Buka console atau ketik ctrl+`</b>
 
 3. <b>Pastikan sudah install git dan npm</b>
+
 <b>Cloning ini</b>
 ```bash
 > git clone https://github.com/Shikukiza/telbot
