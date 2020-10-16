@@ -1,6 +1,6 @@
 //npm i telegraf@3.34.1
 const Telegraf = require('telegraf');
-const bot = new Telegraf('./env.BOT_TOKEN');
+const bot = new Telegraf('BOT_TOKEN');
 //npm i axios
 const axios = require('axios');
 
@@ -9,6 +9,15 @@ bot.on('message', (ctx) => {
   const chatId = ctx.chat.id;
   const name = ctx.from.first_name;
   bot.telegram.sendMessage(chatId, 'Welcome ' + name);
+});
+
+//var @bot.on(string)
+bot.on('text' (ctx) => {
+  if(ctx.context.type === 'private'){
+    ctx.reply('Private Okay!');
+  }else{
+    ctx.reply('Private Please!');
+  }
 });
 
 //var @commands = /start
