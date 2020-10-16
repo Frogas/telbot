@@ -41,7 +41,7 @@
 ```
 <b>Install depend telegraf</b>
 ```bash
-> npm install telegraf@3.33
+> npm install telegraf@3.34
 ```
 <b>Install depend axios</b>
 ```bash
