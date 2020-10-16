@@ -3,30 +3,40 @@
 ![screenshot](Screenshot_20201009-220816_WhatsApp.jpg)
 
 # Termux Setup
-
 <b>1. Install Ubuntu v18 Diandronix</b>
-
-<b>2. <b>./start-ubuntu.sh</b>
-
-<b>3. <b>apt update -y && apt upgrade -y</b>
-
-4. <b>apt install git -y<b>
-
-5. <b>git clone https://github.com/Shikukiza/telbot</b>
-
-6. <b>apt install nano -y</b>
-
-7. <b>apt install npm -y</b>
-
-8. <b>apt install nodejs -y</b>
-
-9. <b>cd telbot</b>
-
-10. <b>npm install telegraf@3.33<b>
-
-11. <b>npm install axios</b>
-
-12. <b>node index.js</b>
+```bash
+/start-ubuntu.sh
+```
+```bash
+apt update -y && apt upgrade -y
+```
+```bash
+apt install git -y
+```
+```bash
+git clone https://github.com/Shikukiza/telbot
+```
+```bash
+apt install nano -y
+```
+```bash
+apt install npm -y
+```
+```bash
+apt install nodejs -y
+```
+```bash
+cd telbot
+```
+```bash
+npm install telegraf@3.33
+```
+```bash
+npm install axios
+```
+```bash
+node index.js
+```
 
 13. <b>Dan Enjoy :) Selamat Mencoba!</b>
 
