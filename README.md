@@ -56,7 +56,7 @@
 
 # Windows 10 Setup
 
-1. <b>Download Visual Studio Code<b>
+1. <b>Download Visual Studio Code</b>
 
 2. <b>Buka console atau ketik ctrl+`</b>
 
