@@ -61,15 +61,19 @@
 2. <b>Buka console atau ketik ctrl+`</b>
 
 3. <b>Pastikan sudah install git dan npm</b>
+<b>Cloning ini</b>
 ```bash
 > git clone https://github.com/Shikukiza/telbot
 ```
+<b>Buka Folder telbot</b>
 ```bash
 > cd telbot
 ```
+<b>Install depend telegraf</b>
 ```bash
 > npm i telegraf@3.33
 ```
+<b>Install depend axios</b>
 ```bash
 > npm i axios
 ```
@@ -77,6 +81,7 @@
 10. </b>Kemudian edit index.js di const bot = ('ISI_TOKEN');</b>
 
 ![screenshot](Screenshot_20201010-001025_Telegram.jpg)
+<b>Mulaikan index.js</b>
 ```bash
 > node index.js
 ```
