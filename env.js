@@ -1,2 +1,0 @@
-//ISI BOT TOKEN DARI @BotFather !
-BOT_TOKEN: "";
