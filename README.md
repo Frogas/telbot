@@ -79,7 +79,7 @@
 > npm i axios
 ```
 
-10. <b>Kemudian edit index.js di const bot = ('ISI_TOKEN');</b>
+10. <b>Buka File index.js, const bot = ('ISI_TOKEN');</b>
 
 ![screenshot](Screenshot_20201010-001025_Telegram.jpg)
 <b>Mulaikan index.js</b>
