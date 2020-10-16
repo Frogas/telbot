@@ -3,39 +3,42 @@
 ![screenshot](Screenshot_20201009-220816_WhatsApp.jpg)
 
 # Termux Setup
-<b>1. Install Ubuntu v18 Diandronix</b>
+<b>1. Install Ubuntu diAndronix</b>
 ```bash
-/start-ubuntu.sh
+> pkg update -y && pkg install curl proot tar -y && curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu/ubuntu.sh | bash
 ```
 ```bash
-apt update -y && apt upgrade -y
+> ./start-ubuntu.sh
 ```
 ```bash
-apt install git -y
+> apt update -y && apt upgrade -y
 ```
 ```bash
-git clone https://github.com/Shikukiza/telbot
+> apt install git -y
 ```
 ```bash
-apt install nano -y
+> git clone https://github.com/Shikukiza/telbot
 ```
 ```bash
-apt install npm -y
+> apt install nano -y
 ```
 ```bash
-apt install nodejs -y
+> apt install npm -y
 ```
 ```bash
-cd telbot
+> apt install nodejs -y
 ```
 ```bash
-npm install telegraf@3.33
+> cd telbot
 ```
 ```bash
-npm install axios
+> npm install telegraf@3.33
 ```
 ```bash
-node index.js
+> npm install axios
+```
+```bash
+> node index.js
 ```
 
 13. <b>Dan Enjoy :) Selamat Mencoba!</b>
@@ -48,23 +51,23 @@ node index.js
 
 3. <b>Pastikan sudah install git dan npm</b>
 ```bash
-git clone https://github.com/Shikukiza/telbot
+> git clone https://github.com/Shikukiza/telbot
 ```
 ```bash
-cd telbot
+> cd telbot
 ```
 ```bash
-npm i telegraf@3.33
+> npm i telegraf@3.33
 ```
 ```bash
-npm i axios
+> npm i axios
 ```
 
 10. </b>Kemudian edit index.js di const bot = ('ISI_TOKEN');</b>
 
 ![screenshot](Screenshot_20201010-001025_Telegram.jpg)
 ```bash
-node index.js
+> node index.js
 ```
 
 12. <b>Dan Enjoy :) Selamat Mencoba!</b>
