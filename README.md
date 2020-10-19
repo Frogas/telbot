@@ -144,7 +144,7 @@
 
 Kunjungi <a href="https://github.com/Shikukiza/telegraf_bot">Telegraf-Shikukiza</a>
 <br/>
-Join Juga <a href="https://t.me/frogasnodejs">Grup-Telegram</a>
+Join Juga <a href="https://t.me/FrogasChannel">Channel Kami</a>
 
 # Website API
 Baca juga bot api <a href="https://core.telegram.org/bots/api">TelegramBot-API</a>
