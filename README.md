@@ -142,9 +142,9 @@
 
 ![screenshot](Screenshot_20201009-235539_Telegram.jpg)
 
-Kunjungi <a href="https://github.com/Shikukiza/telegraf_bot">Telegraf-Shikukiza</a>
+Kunjungi <a href="https://github.com/Shikukiza/telegraf_bot">Telegraf Shikukiza</a>
 <br/>
-Join Juga <a href="https://t.me/FrogasChannel">Channel Kami</a>
+Join Juga <a href="https://t.me/FrogasGrub">Grub Kami</a>
 
 # Website API
 Baca juga bot api <a href="https://core.telegram.org/bots/api">TelegramBot-API</a>
