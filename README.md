@@ -89,6 +89,8 @@
 
 12. <b>Dan Enjoy :) Selamat Mencoba!</b>
 
+# Setup Linux Termux
+
 # Contoh Inline!
 
 ![screenshot](Screenshot_20201009-235539_Telegram.jpg)
