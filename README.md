@@ -91,6 +91,51 @@
 
 # Setup Linux Termux
 
+1. <b>Download telbot ini</b>
+
+2. <b>Copy dipenyimpanan internal > downloads
+
+<b>Setup Termux Storage</b>
+
+```bash
+> termux-setup-storage
+```
+
+<b>Install npm</b>
+
+```bash
+> pkg install npm
+```
+<b>Install NodeJS</b>
+
+```bash
+> pkg install nodejs
+```
+
+<b>Masuk Folder storage/downloads/telbot</b>
+
+```bash
+> cd storage/downloads/telbot
+```
+
+<b>Install npm Telegraf</b>
+
+```bash
+> npm install telegraf@3.33
+```
+
+<b>Install npm axios</b>
+
+```bash
+> npm install axios
+```
+
+<b>Mulaikan index.js</b>
+
+```bash
+> node index.js
+```
+
 # Contoh Inline!
 
 ![screenshot](Screenshot_20201009-235539_Telegram.jpg)
