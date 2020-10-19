@@ -93,7 +93,7 @@
 
 1. <b>Download telbot ini</b>
 
-2. <b>Copy dipenyimpanan internal > downloads
+2. <b>Copy telbot > downloads
 
 <b>Setup Termux Storage</b>
 
@@ -111,6 +111,8 @@
 ```bash
 > pkg install nodejs
 ```
+
+6. Selamat mencoba cara simple:)
 
 <b>Masuk Folder storage/downloads/telbot</b>
 
