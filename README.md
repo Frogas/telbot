@@ -150,5 +150,5 @@ Join Juga <a href="https://t.me/FrogasGrub">Grub Kami</a>
 Baca juga bot api <a href="https://core.telegram.org/bots/api">TelegramBot-API</a>
 <br>
 Pada artikel halaman <a href="https://telegraf.js.org/#/">Telegraf</a>
-![Twitter](https://img.shields.io/twitter/follow/frogas?style=flat-square)
-![Fork](https://img.shields.io/github/forks/frogas/telbot?style=flat-square)
+![Twitter](https://img.shields.io/twitter/follow/Frogas21?style=flat-square)
+![Fork](https://img.shields.io/github/forks/Frogas/telbot?style=flat-square)
