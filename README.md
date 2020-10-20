@@ -21,7 +21,7 @@
 ```
 <b>Cloning ini</b>
 ```bash
-> git clone https://github.com/Shikukiza/telbot
+> git clone https://github.com/Frogas/telbot
 ```
 <b>Install Nano</b>
 ```bash
@@ -64,7 +64,7 @@
 
 <b>Cloning ini</b>
 ```bash
-> git clone https://github.com/Shikukiza/telbot
+> git clone https://github.com/Frogas/telbot
 ```
 <b>Buka Folder telbot</b>
 ```bash
@@ -142,7 +142,7 @@
 
 ![screenshot](Screenshot_20201009-235539_Telegram.jpg)
 
-Kunjungi <a href="https://github.com/Shikukiza/telegraf_bot">Telegraf Shikukiza</a>
+Kunjungi <a href="https://github.com/Shikukiza/telegraf_bot">Telegraf Frogas</a>
 <br/>
 Join Juga <a href="https://t.me/FrogasGrub">Grub Kami</a>
 
@@ -150,5 +150,5 @@ Join Juga <a href="https://t.me/FrogasGrub">Grub Kami</a>
 Baca juga bot api <a href="https://core.telegram.org/bots/api">TelegramBot-API</a>
 <br>
 Pada artikel halaman <a href="https://telegraf.js.org/#/">Telegraf</a>
-![Twitter](https://img.shields.io/twitter/follow/shikukiza?style=flat-square)
-![Fork](https://img.shields.io/github/forks/shikukiza/telbot?style=flat-square)
+![Twitter](https://img.shields.io/twitter/follow/frogas?style=flat-square)
+![Fork](https://img.shields.io/github/forks/frogas/telbot?style=flat-square)
