@@ -39,13 +39,9 @@
 ```bash
 > cd telbot
 ```
-<b>Install depend telegraf</b>
+<b>Install depend</b>
 ```bash
-> npm install telegraf@3.34
-```
-<b>Install depend axios</b>
-```bash
-> npm install axios
+> npm install
 ```
 <b>Mulaikan index.js</b>
 ```bash
@@ -70,13 +66,9 @@
 ```bash
 > cd telbot
 ```
-<b>Install depend telegraf</b>
+<b>Install depend</b>
 ```bash
-> npm i telegraf@3.33
-```
-<b>Install depend axios</b>
-```bash
-> npm i axios
+> npm install
 ```
 
 10. <b>Buka File index.js, const bot = ('ISI_TOKEN');</b>
@@ -120,16 +112,10 @@
 > cd storage/downloads/telbot
 ```
 
-<b>Install npm Telegraf</b>
+<b>Install depend</b>
 
 ```bash
-> npm install telegraf@3.33
-```
-
-<b>Install npm axios</b>
-
-```bash
-> npm install axios
+> npm install
 ```
 
 <b>Mulaikan index.js</b>
