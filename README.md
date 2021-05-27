@@ -2,7 +2,7 @@
 
 ![screenshot](231a7b66c5080ccb37407be02999ac2b.gif)
 
-# Termux Setup
+# Ubuntu Termux Setup
 <b>Install Ubuntu Andronix</b>
 ```bash
 > pkg update -y && pkg install curl proot tar -y && curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu/ubuntu.sh | bash
