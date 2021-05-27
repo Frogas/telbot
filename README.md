@@ -130,7 +130,7 @@
 
 Kunjungi <a href="https://github.com/Shikukiza/telegraf_bot">Telegraf Frogas</a>
 <br/>
-Join Juga <a href="https://t.me/FrogasGrub">Grub Kami</a>
+Join Juga <a href="https://t.me/FrogasDevelopmentGroup">Grub Kami</a>
 
 # Website API
 Baca juga bot api <a href="https://core.telegram.org/bots/api">TelegramBot-API</a>
